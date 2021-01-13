@@ -6,6 +6,8 @@ body {
     background: hsl(210, 36%, 96%)
 }
 
-.temp {
-
+.item {
+  background: #fff;
+  padding: 0.834rem;
+  border-radius: 5px;
 }
